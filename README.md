@@ -15,3 +15,7 @@
 | Large-scalee dataset |
 | --- |
 |Xiao, J., Hays, J., Ehinger, K. A., Oliva, A., & Torralba, A. (2010, June). Sun database: Large-scale scene recognition from abbey to zoo. In 2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (pp. 3485-3492). IEEE.|
+|Tang, Y., Ding, D., Rao, Y., Zheng, Y., Zhang, D., Zhao, L., ... & Zhou, J. (2019). COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis. arXiv preprint arXiv:1903.02874.|
+|Karpathy, A., Toderici, G., Shetty, S., Leung, T., Sukthankar, R., & Fei-Fei, L. (2014). Large-scale video classification with convolutional neural networks. In Proceedings of the IEEE conference on Computer Vision and Pattern Recognition (pp. 1725-1732).|
+|Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-Fei, L. (2009, June). Imagenet: A large-scale hierarchical image database. In 2009 IEEE conference on computer vision and pattern recognition (pp. 248-255). Ieee.|
+|Zhou, B., Lapedriza, A., Khosla, A., Oliva, A., & Torralba, A. (2018). Places: A 10 million image database for scene recognition. IEEE transactions on pattern analysis and machine intelligence, 40(6), 1452-1464.|
