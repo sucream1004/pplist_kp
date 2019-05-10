@@ -1,4 +1,4 @@
-# Relevant paper list
+# List of papers
 
 ## Indoor environment (Thermal, Air quality, etc)
 | Environment        |
@@ -10,3 +10,7 @@
 | Classification |
 | --- |
 | Shahriari, M., & Bergevin, R. (2016, November). A two-stage outdoor-indoor scene classification framework: experimental study for the outdoor stage. In 2016 International Conference on Digital Image Computing: Techniques and Applications (DICTA) (pp. 1-8). IEEE. |
+
+## Large-scale dataset
+| --- |
+| Large-scalee dataset |
